@@ -6,7 +6,7 @@ This code implements systems for pathfinding, enemy finite state machine, collis
 
 I removed all assets except for the scripts that were used in this project, 
 since the meshes ive originaly used in this project might be protected by copyright. 
-The meshes that are shown in the screenshot (weapon and shield) were done by me.
+The weapon, shield and item meshes were done by me.
 
 This was originaly a school project.
 
