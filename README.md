@@ -1,4 +1,4 @@
-#Entity-Component-System-Example
+# Entity-Component-System-Example
 
 This is a example game done completly in the new Unity Entity Component System. 
 The game has systems for pathfinding, enemy finite state machine, collisions (with new Unity Physics), input, inventory, weapon animation (by using slerp and lerp).
