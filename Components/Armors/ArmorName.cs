@@ -1,0 +1,31 @@
+namespace FindTheIdol.Components.Armors
+{
+    public enum ArmorName : int
+    {     
+        None,
+        LeatherHelmet,
+        LeatherChestplate,
+        LeatherLeggins,
+        LeatherVambraces,
+        BrockiumHelmet,
+        BrockiumChestplate,
+        BrockiumLeggins,
+        BrockiumVambraces,
+        CoritHelmet,
+        CoritChestplate,
+        CoritLeggins,
+        CoritVambraces,
+        DeronHelmet,
+        DeronChestplate,
+        DeronLeggins,
+        DeronVambraces,
+        ElidineHelmet,
+        ElidineChestplate,
+        ElidineLeggins,
+        ElidineVambraces,
+        FaritropeHelmet,
+        FaritropeChestplate,
+        FaritropeLeggins,
+        FaritropeVambraces
+    }
+}
